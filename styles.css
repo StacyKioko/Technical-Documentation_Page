@@ -71,6 +71,7 @@
    color: darkred;
    padding: 15px;
    line-height: 18px;
+   border-radius: 6px;
  }
  
  dt {
