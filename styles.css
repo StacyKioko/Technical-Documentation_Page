@@ -82,7 +82,8 @@ dt {
 }
 
 dt, dd {
-  line-height: 21px
+  line-height: 21px;
+  margin-left: 30px;
 }
 
 dd {
