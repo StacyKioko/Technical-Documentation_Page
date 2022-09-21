@@ -8,8 +8,7 @@ body {
   padding-left: 10px;
   padding-top: 20px;
   margin-left: 210px;
-  line-height: 25px; 
-  max-width: 1000px;
+  line-height: 25px;
 }
 
 #navbar {
@@ -21,7 +20,7 @@ body {
   left: 0;
   background-color: #111;
   overflow-x: hidden;
-  padding-top: 35px;
+  padding-top: 50px;
 }
 
 #navbar header {
