@@ -24,9 +24,10 @@ body {
 }
 
 #navbar header {
-  margin-bottom: 40;
+  margin-bottom: 60px;
   margin-top: 0;
   padding-top: 0;
+  padding-bottom: 15px;
   font-weight: 800;
   color: white;
   text-align: center;
