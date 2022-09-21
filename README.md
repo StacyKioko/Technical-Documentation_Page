@@ -1,5 +1,5 @@
 # Technical Documentation Page
-This repository showcases JavaScript and Java basics.
+This repository contains a technical documentation page that showcases JavaScript and Java basics.
 
 ## Objective
 Objective: Build an app that is functionally similar to https://technical-documentation-page.freecodecamp.rocks
