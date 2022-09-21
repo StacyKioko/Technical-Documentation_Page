@@ -1,0 +1,104 @@
+* {
+   scroll-behavior: smooth;
+} 
+ 
+body {
+  background-color: black;
+  color: lightgrey;
+  padding-left: 10px;
+  padding-top: 20px;
+  margin-left: 210px;
+  line-height: 25px; 
+  max-width: 1000px;
+}
+
+#navbar {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 35px;
+}
+
+#navbar header {
+  margin-bottom: 40;
+  margin-top: 0;
+  padding-top: 0;
+  font-weight: 800;
+  color: white;
+  text-align: center;
+}
+
+nav a {
+  color: lightgrey;
+  text-decoration: none;
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 18px;
+  display: block;
+  border-bottom: 2px solid grey;
+  
+}
+
+a:hover {
+  color: gold;
+}
+
+a:active {
+  color: gold;
+}
+
+h1 {
+  margin-top: 20px;
+  text-align: center;
+}
+
+h2 {
+  border-bottom: 2px solid lightgray;
+  margin-top: 30px
+}
+
+h1, h2, h3 {
+  color: white;
+}
+
+code {
+  display: block;
+  background-color: white;
+  color: darkred;
+  padding: 15px;
+  line-height: 18px;
+}
+
+dt {
+  display: list-item;
+  list-style-type: circle;
+  font-weight: 1000px;
+  color: white;
+}
+
+dt, dd {
+  line-height: 21px
+}
+
+dd {
+  margin-bottom: 10px
+}
+
+/*phone orientation */
+
+@media (min-width: 300px) and (max-width: 768px) {
+  #navbar {
+    display: none;
+  }
+  h1 {
+    margin-top: 30px;
+  }
+  body {
+    margin-left: 5px;
+  }
+}
