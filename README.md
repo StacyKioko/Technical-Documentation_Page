@@ -22,7 +22,7 @@ Objective: Build an app that is functionally similar to https://technical-docume
 15. Your technical documentation should use at least one media query
 
 ## Attributes
-This repository is courtesy of freecodecamp.org
+This repository is courtesy of <a href="freecodecamp.org">freecodecamp.org</a>
 
 ## Author
 - <a href="github.com/StacyKioko">Stacy Kioko </a>
